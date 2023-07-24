@@ -91,4 +91,5 @@ steps:
       fi
 # [END tf-apply]  
 options:
-  logging: GITHUB
+  logging: CLOUD_LOGGING_ONLY
+  logsBuckect: imposing-voyage-392509-tfstate	
