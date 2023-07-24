@@ -90,5 +90,4 @@ steps:
         echo "*******************************************************************************"
       fi
 # [END tf-apply]  
-  build:
-    logs_buckect: imposing-voyage-392509-tfstate
+logs_bucket: imposing-voyage-392509-tfstate
