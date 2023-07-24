@@ -90,5 +90,5 @@ steps:
         echo "*******************************************************************************"
       fi
  
-logs_bucket: 'imposing-voyage-392509-tfstate'
+logs_bucket: imposing-voyage-392509-tfstate
 # [END tf-apply] 
