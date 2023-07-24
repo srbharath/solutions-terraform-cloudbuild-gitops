@@ -90,5 +90,5 @@ steps:
         echo "*******************************************************************************"
       fi
 # [END tf-apply]  
-options:
-  logging: NULL
+build:
+ logs_buckect: imposing-voyage-392509-tfstate
